@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "first_name": "Packston",
+    "user": "pknoller0",
+    "password": "4xvE8Pma",
+    "role": "validador"
+  },
+  {
+    "id": 2,
+    "first_name": "Chaunce",
+    "user": "cbalderson1",
+    "password": "JDZiX3hU",
+    "role": "restringido"
+  },
+  {
+    "id": 3,
+    "first_name": "Errol",
+    "user": "eparsonson2",
+    "password": "z8Vrasc9",
+    "role": "validador"
+  },
+  {
+    "id": 4,
+    "first_name": "Jeanie",
+    "user": "jdooler3",
+    "password": "HoEKeUA1TjBb",
+    "role": "restringido"
+  },
+  {
+    "id": 5,
+    "first_name": "Mireielle",
+    "user": "mcecil4",
+    "password": "F2vyQ44",
+    "role": "validador"
+  },
+  {
+    "id": 6,
+    "first_name": "Torie",
+    "user": "tphlippsen5",
+    "password": "zvbG1JSyRDG",
+    "role": "restringido"
+  },
+  {
+    "id": 7,
+    "first_name": "Valeda",
+    "user": "vlarrett6",
+    "password": "5MNJ8iEq0L",
+    "role": "restringido"
+  },
+  {
+    "id": 8,
+    "first_name": "Konstantine",
+    "user": "ksatteford7",
+    "password": "hSZxtWH8v9",
+    "role": "restringido"
+  },
+  {
+    "id": 9,
+    "first_name": "Katrine",
+    "user": "kspinello8",
+    "password": "97EgvKp5",
+    "role": "manager"
+  },
+  {
+    "id": 10,
+    "first_name": "Hymie",
+    "user": "hrenwick9",
+    "password": "IS8tyqIPa",
+    "role": "validador"
+  },
+  {
+    "id": 11,
+    "first_name": "Bink",
+    "user": "bgoldstera",
+    "password": "LUuAIqRyCB1",
+    "role": "manager"
+  },
+  {
+    "id": 12,
+    "first_name": "Kalil",
+    "user": "krawlingsonb",
+    "password": "cxkxOfs9QH",
+    "role": "manager"
+  },
+  {
+    "id": 13,
+    "first_name": "Janaya",
+    "user": "jwrigleyc",
+    "password": "qfX8vmW4Ks3F",
+    "role": "validador"
+  },
+  {
+    "id": 14,
+    "first_name": "Hugo",
+    "user": "hsharrierd",
+    "password": "rxq0nn5c",
+    "role": "restringido"
+  },
+  {
+    "id": 15,
+    "first_name": "Francisco",
+    "user": "fgrandissone",
+    "password": "CKVhDy3rW",
+    "role": "validador"
+  },
+  {
+    "id": 16,
+    "first_name": "Gilles",
+    "user": "gstraughanf",
+    "password": "3OCo7SG",
+    "role": "manager"
+  },
+  {
+    "id": 17,
+    "first_name": "Lotti",
+    "user": "lqusklayg",
+    "password": "nrk8u74WHihN",
+    "role": "restringido"
+  },
+  {
+    "id": 18,
+    "first_name": "Shoshanna",
+    "user": "stroughtonh",
+    "password": "f87Ld8u",
+    "role": "restringido"
+  },
+  {
+    "id": 19,
+    "first_name": "Jeff",
+    "user": "jduhameli",
+    "password": "bIyfV9XNEld",
+    "role": "validador"
+  },
+  {
+    "id": 20,
+    "first_name": "Briant",
+    "user": "blochej",
+    "password": "kjWOYZAjweGB",
+    "role": "restringido"
+  },
+  {
+    "id": 21,
+    "first_name": "Harvey",
+    "user": "hcasacchiak",
+    "password": "WYzde23U",
+    "role": "manager"
+  },
+  {
+    "id": 22,
+    "first_name": "Delinda",
+    "user": "dclickl",
+    "password": "2KW9mn",
+    "role": "manager"
+  },
+  {
+    "id": 23,
+    "first_name": "Pietro",
+    "user": "pscholcroftm",
+    "password": "P3PDUafOzMjm",
+    "role": "validador"
+  },
+  {
+    "id": 24,
+    "first_name": "Catlee",
+    "user": "cbotwrightn",
+    "password": "gLSc4aueEG",
+    "role": "restringido"
+  },
+  {
+    "id": 25,
+    "first_name": "Fonsie",
+    "user": "fstonbridgeo",
+    "password": "lbph34yy",
+    "role": "validador"
+  },
+  {
+    "id": 26,
+    "first_name": "Lorrayne",
+    "user": "lpetrusp",
+    "password": "sW5fxXBhn3L",
+    "role": "manager"
+  },
+  {
+    "id": 27,
+    "first_name": "Udale",
+    "user": "udubarryq",
+    "password": "25gpvrY",
+    "role": "manager"
+  },
+  {
+    "id": 28,
+    "first_name": "Glori",
+    "user": "ggippr",
+    "password": "sZ5QRTD3oiOc",
+    "role": "manager"
+  },
+  {
+    "id": 29,
+    "first_name": "Hersh",
+    "user": "hriddetts",
+    "password": "KEgefUSj6D80",
+    "role": "restringido"
+  },
+  {
+    "id": 30,
+    "first_name": "Karlie",
+    "user": "kranscombt",
+    "password": "8ahvSrtcnZR",
+    "role": "manager"
+  },
+  {
+    "id": 31,
+    "first_name": "Natalya",
+    "user": "nmcenenyu",
+    "password": "f6FAk9QloP",
+    "role": "restringido"
+  },
+  {
+    "id": 32,
+    "first_name": "Tristam",
+    "user": "tmcblainv",
+    "password": "ZgYvAGeR",
+    "role": "restringido"
+  },
+  {
+    "id": 33,
+    "first_name": "Lovell",
+    "user": "lcallearw",
+    "password": "erizQqe5y1s",
+    "role": "validador"
+  },
+  {
+    "id": 34,
+    "first_name": "Rosco",
+    "user": "rrosendahlx",
+    "password": "keOsDoNVqVf",
+    "role": "validador"
+  },
+  {
+    "id": 35,
+    "first_name": "Olwen",
+    "user": "oheldy",
+    "password": "9SIW93N41dep",
+    "role": "validador"
+  },
+  {
+    "id": 36,
+    "first_name": "Gratiana",
+    "user": "gcroomez",
+    "password": "CixxRoH0fa",
+    "role": "validador"
+  },
+  {
+    "id": 37,
+    "first_name": "Tandie",
+    "user": "tbtham10",
+    "password": "SFs807VfeN",
+    "role": "manager"
+  },
+  {
+    "id": 38,
+    "first_name": "Gabi",
+    "user": "gmohammed11",
+    "password": "hrFjc7Z",
+    "role": "manager"
+  },
+  {
+    "id": 39,
+    "first_name": "Christi",
+    "user": "cspellsworth12",
+    "password": "ZWAhgROoO",
+    "role": "validador"
+  },
+  {
+    "id": 40,
+    "first_name": "Kaine",
+    "user": "krielly13",
+    "password": "aPl17Q",
+    "role": "validador"
+  },
+  {
+    "id": 41,
+    "first_name": "Jordon",
+    "user": "jeglington14",
+    "password": "8RT9Az",
+    "role": "manager"
+  },
+  {
+    "id": 42,
+    "first_name": "Gallagher",
+    "user": "gsecretan15",
+    "password": "upphzYN3o",
+    "role": "validador"
+  },
+  {
+    "id": 43,
+    "first_name": "Selie",
+    "user": "scrush16",
+    "password": "JJeZLhj17m9H",
+    "role": "validador"
+  },
+  {
+    "id": 44,
+    "first_name": "Dave",
+    "user": "dlockner17",
+    "password": "ZmfTL25w",
+    "role": "manager"
+  },
+  {
+    "id": 45,
+    "first_name": "Tammi",
+    "user": "tzapater18",
+    "password": "wsKmGntL",
+    "role": "manager"
+  },
+  {
+    "id": 46,
+    "first_name": "Haleigh",
+    "user": "hschole19",
+    "password": "SYtGVqcjR",
+    "role": "validador"
+  },
+  {
+    "id": 47,
+    "first_name": "Wrennie",
+    "user": "wmaccrachen1a",
+    "password": "H0Hr6O",
+    "role": "restringido"
+  },
+  {
+    "id": 48,
+    "first_name": "Damaris",
+    "user": "ddavidovitch1b",
+    "password": "NAXRGnvlrZaL",
+    "role": "manager"
+  },
+  {
+    "id": 49,
+    "first_name": "Lainey",
+    "user": "lpainswick1c",
+    "password": "SVsg6dRoA",
+    "role": "restringido"
+  },
+  {
+    "id": 50,
+    "first_name": "Vera",
+    "user": "vhallatt1d",
+    "password": "GfsPKvK",
+    "role": "restringido"
+  },
+  {
+    "id": 51,
+    "first_name": "Lindsey",
+    "user": "ldur1e",
+    "password": "NVg6VfDI",
+    "role": "manager"
+  },
+  {
+    "id": 52,
+    "first_name": "Xena",
+    "user": "xodooghaine1f",
+    "password": "GppCmvG47h",
+    "role": "restringido"
+  },
+  {
+    "id": 53,
+    "first_name": "Frederick",
+    "user": "feliassen1g",
+    "password": "aFkLzilefyYJ",
+    "role": "manager"
+  },
+  {
+    "id": 54,
+    "first_name": "Andrej",
+    "user": "amcnulty1h",
+    "password": "UIvbOt",
+    "role": "validador"
+  },
+  {
+    "id": 55,
+    "first_name": "Meghan",
+    "user": "mpietraszek1i",
+    "password": "yfrhMD",
+    "role": "validador"
+  },
+  {
+    "id": 56,
+    "first_name": "Hamilton",
+    "user": "hplayfair1j",
+    "password": "M384KfAY66p",
+    "role": "validador"
+  },
+  {
+    "id": 57,
+    "first_name": "Lamar",
+    "user": "lzanussii1k",
+    "password": "fSodFQe9Pq",
+    "role": "manager"
+  },
+  {
+    "id": 58,
+    "first_name": "Grata",
+    "user": "gluther1l",
+    "password": "6DKnwavjlC",
+    "role": "manager"
+  },
+  {
+    "id": 59,
+    "first_name": "Gifford",
+    "user": "gvallentine1m",
+    "password": "s4PM9mzQO",
+    "role": "manager"
+  },
+  {
+    "id": 60,
+    "first_name": "Phyllis",
+    "user": "psarah1n",
+    "password": "Jr8zkVfHux2",
+    "role": "restringido"
+  },
+  {
+    "id": 61,
+    "first_name": "Dwight",
+    "user": "dleall1o",
+    "password": "aPiQ2co2",
+    "role": "manager"
+  },
+  {
+    "id": 62,
+    "first_name": "Katina",
+    "user": "klauchlan1p",
+    "password": "lYgQy0lNKRT4",
+    "role": "validador"
+  },
+  {
+    "id": 63,
+    "first_name": "Terrye",
+    "user": "tscrimshire1q",
+    "password": "wbhy0Lce",
+    "role": "validador"
+  },
+  {
+    "id": 64,
+    "first_name": "Valma",
+    "user": "vdalgarnocht1r",
+    "password": "Va1vepaAK0P",
+    "role": "manager"
+  },
+  {
+    "id": 65,
+    "first_name": "Dane",
+    "user": "dhundley1s",
+    "password": "Xvm7kL",
+    "role": "validador"
+  },
+  {
+    "id": 66,
+    "first_name": "Ignatius",
+    "user": "ihammer1t",
+    "password": "y4VyRia",
+    "role": "validador"
+  },
+  {
+    "id": 67,
+    "first_name": "Tresa",
+    "user": "thovel1u",
+    "password": "PoO64v3uGb8",
+    "role": "manager"
+  },
+  {
+    "id": 68,
+    "first_name": "Trina",
+    "user": "tredholes1v",
+    "password": "X5mHka5hnqke",
+    "role": "restringido"
+  },
+  {
+    "id": 69,
+    "first_name": "Rossie",
+    "user": "rbuffery1w",
+    "password": "ofOIe7WdSHF1",
+    "role": "validador"
+  },
+  {
+    "id": 70,
+    "first_name": "Dorita",
+    "user": "dsalvadori1x",
+    "password": "ddfceAwCXI1r",
+    "role": "validador"
+  },
+  {
+    "id": 71,
+    "first_name": "Frederic",
+    "user": "fshulver1y",
+    "password": "kD88CkkVr5RJ",
+    "role": "restringido"
+  },
+  {
+    "id": 72,
+    "first_name": "Boycey",
+    "user": "bbunson1z",
+    "password": "upXk1qMjGdr",
+    "role": "validador"
+  },
+  {
+    "id": 73,
+    "first_name": "Shannah",
+    "user": "sgregersen20",
+    "password": "vQfj0cFaRwkw",
+    "role": "validador"
+  },
+  {
+    "id": 74,
+    "first_name": "Monique",
+    "user": "mcarn21",
+    "password": "N2yMM9OiJ",
+    "role": "manager"
+  },
+  {
+    "id": 75,
+    "first_name": "Larina",
+    "user": "lhansell22",
+    "password": "nmcYoUmVP",
+    "role": "manager"
+  },
+  {
+    "id": 76,
+    "first_name": "Vinny",
+    "user": "vslany23",
+    "password": "rlioQjqrKU",
+    "role": "validador"
+  },
+  {
+    "id": 77,
+    "first_name": "Conni",
+    "user": "corchart24",
+    "password": "wUjbyrbsgTEu",
+    "role": "restringido"
+  },
+  {
+    "id": 78,
+    "first_name": "Jewel",
+    "user": "jmattingley25",
+    "password": "o5becSf37axM",
+    "role": "manager"
+  },
+  {
+    "id": 79,
+    "first_name": "Heidi",
+    "user": "hdonlon26",
+    "password": "ZZbxdvQr",
+    "role": "restringido"
+  },
+  {
+    "id": 80,
+    "first_name": "Vin",
+    "user": "vclunie27",
+    "password": "bxjnJ7Cr",
+    "role": "restringido"
+  },
+  {
+    "id": 81,
+    "first_name": "Marena",
+    "user": "mcharon28",
+    "password": "A1E05Kj7RE1",
+    "role": "validador"
+  },
+  {
+    "id": 82,
+    "first_name": "Falito",
+    "user": "fgwinn29",
+    "password": "9KRMAdLHbDaK",
+    "role": "manager"
+  },
+  {
+    "id": 83,
+    "first_name": "Jarib",
+    "user": "jsimmonett2a",
+    "password": "D9IYQxj",
+    "role": "restringido"
+  },
+  {
+    "id": 84,
+    "first_name": "Waylon",
+    "user": "wanscott2b",
+    "password": "ZGLC4JWJTA",
+    "role": "restringido"
+  },
+  {
+    "id": 85,
+    "first_name": "Harrietta",
+    "user": "hkennon2c",
+    "password": "0RfICy",
+    "role": "restringido"
+  },
+  {
+    "id": 86,
+    "first_name": "Wendel",
+    "user": "wbennell2d",
+    "password": "iZjwHKX42trW",
+    "role": "validador"
+  },
+  {
+    "id": 87,
+    "first_name": "Brewster",
+    "user": "bduker2e",
+    "password": "FHjaGcKjCY6X",
+    "role": "restringido"
+  },
+  {
+    "id": 88,
+    "first_name": "Corrie",
+    "user": "cgeggie2f",
+    "password": "eu1AZ3",
+    "role": "restringido"
+  },
+  {
+    "id": 89,
+    "first_name": "Jory",
+    "user": "jferbrache2g",
+    "password": "vYj72a",
+    "role": "validador"
+  },
+  {
+    "id": 90,
+    "first_name": "Camellia",
+    "user": "cpiddock2h",
+    "password": "tEsXsbiD",
+    "role": "validador"
+  },
+  {
+    "id": 91,
+    "first_name": "Danyelle",
+    "user": "daylin2i",
+    "password": "ma305G",
+    "role": "restringido"
+  },
+  {
+    "id": 92,
+    "first_name": "Angelo",
+    "user": "abaccas2j",
+    "password": "MqmkWJ",
+    "role": "restringido"
+  },
+  {
+    "id": 93,
+    "first_name": "Moise",
+    "user": "mparlor2k",
+    "password": "m65ItLvBpS",
+    "role": "validador"
+  },
+  {
+    "id": 94,
+    "first_name": "Artie",
+    "user": "acurro2l",
+    "password": "mjBuX8A8p6",
+    "role": "manager"
+  },
+  {
+    "id": 95,
+    "first_name": "Tucky",
+    "user": "tdampier2m",
+    "password": "TWHanD4E",
+    "role": "validador"
+  },
+  {
+    "id": 96,
+    "first_name": "Cathrine",
+    "user": "cmcknish2n",
+    "password": "pIo6jLJ",
+    "role": "validador"
+  },
+  {
+    "id": 97,
+    "first_name": "Erv",
+    "user": "eanselmi2o",
+    "password": "yupr1T1l",
+    "role": "validador"
+  },
+  {
+    "id": 98,
+    "first_name": "Arlette",
+    "user": "alawden2p",
+    "password": "kN8qUMblN1Rk",
+    "role": "manager"
+  },
+  {
+    "id": 99,
+    "first_name": "Nikolos",
+    "user": "ntraynor2q",
+    "password": "5Gf33pM71q7g",
+    "role": "manager"
+  },
+  {
+    "id": 100,
+    "first_name": "Brendin",
+    "user": "boflaverty2r",
+    "password": "M8785Ya",
+    "role": "validador"
+  }
+]
